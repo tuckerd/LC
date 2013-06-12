@@ -1,0 +1,8 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	NEGVAL                  000A
+//	NEXTOP                  0003
+//	OP1                     0009
+//	POSVAL                  000B
+//	STORE                   0005
+//	STORE2                  0007
